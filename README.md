@@ -12,7 +12,7 @@ Skills: Python / SQL / JAVA /
 - 📫 How to reach me:  angaritayelaj@gmail.com 
 - ⚡ Fun fact: I love watching anime and skateing! 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RamonaFlores)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
